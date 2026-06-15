@@ -1,5 +1,5 @@
 ![Minesweeper Plus: PS3 Edition Banner](msplusps3.png)
-***[PLEASE PLAY THE ORIGINAL GAME FIRST!!](https://jorel-simpson.itch.io/minesweeper-plus)***\
+***[PLEASE PLAY THE ORIGINAL GAME FIRST!!](https://jorel-simpson.itch.io/minesweeper-plus)***
 
 This github repository has been archived. It will no longer have the latest source version, as if I need to somehow hide secrets. Thanks for understanding.
 
